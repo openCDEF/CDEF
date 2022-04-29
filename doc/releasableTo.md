@@ -1,5 +1,5 @@
-# releasableTo code list introduction 
-The below outlines, in a document format, the code list of applicable codes for "releasableTo". 
+# eventReleasableTo code list introduction 
+The below outlines, in a document format, the code list of applicable codes for "eventReleasableTo". 
 
 This code list is derived from the US Department of Defense (DoD) json-ism standard, the json-ism standard focusses on JSON payload classification where the open CDEF standard has a focus on JSON based events to be used in NATO event based architectures and data mesh constructs.
 
@@ -14,16 +14,16 @@ Exstensible Markup Language (XML) is widely used within the DoD to share informa
 * [Office of the Director of National Intelligence - Information Security Marking Metadata (ISM)](https://www.dni.gov/index.php/about/organization/chief-information-officer/information-security-marking-metadata)
 * [Office of the DoD CIO - JSON Information Security Marking Standard (JSON-ISM)](https://github.com/DoDCIO/json-ism/)
 
-## Releasable To code list
-The `releasableTo` attribute (Array[String]) identifies one or more countries and/or international organizations to which classified information may be released based on the determination of an originator in accordance with established foreign disclosure procedures.  This attribute is used in conjunction with the `disseminationControls` attribute.
+## Event Releasable To code list
+The `eventReleasableTo` attribute (Array[String]) identifies one or more countries and/or international organizations to which classified information may be released based on the determination of an originator in accordance with established foreign disclosure procedures.  This attribute is used in conjunction with the `eventDisseminationControls` attribute.
 
-The possible patterns for `releasableTo` are:
+The possible patterns for `eventReleasableTo` are:
 
 | Pattern | description |
 | ------- | ----------- |
 | NATO/[a-zA-Z\-_] | North Atlantic Treaty Organization Special Words |
 
-The possible values for `releasableTo` are:
+The possible values for `eventReleasableTo` are:
 
 | Value | Description |
 | ----- | ----------- |
