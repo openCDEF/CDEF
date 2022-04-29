@@ -12,7 +12,7 @@ Exstensible Markup Language (XML) is widely used within the DoD to share informa
 * [DoDM 5200.01, Volume 2 - DoD Information Security Program: Marking of Classified Information](http://www.dtic.mil/whs/directives/corres/pdf/520001_vol2.pdf)
 * [DoDM 5200.01, Volume 4 - DoD Information Security Program: Controlled Unclassified Information (CUI)](http://www.dtic.mil/whs/directives/corres/pdf/520001_vol4.pdf)
 * [Office of the Director of National Intelligence - Information Security Marking Metadata (ISM)](https://www.dni.gov/index.php/about/organization/chief-information-officer/information-security-marking-metadata)
-* [JSON Information Security Marking Standard (JSON-ISM)](https://github.com/DoDCIO/json-ism/)
+* [Office of the DoD CIO - JSON Information Security Marking Standard (JSON-ISM)](https://github.com/DoDCIO/json-ism/)
 
 ## Releasable To code list
 The `releasableTo` attribute (Array[String]) identifies one or more countries and/or international organizations to which classified information may be released based on the determination of an originator in accordance with established foreign disclosure procedures.  This attribute is used in conjunction with the `disseminationControls` attribute.
