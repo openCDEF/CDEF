@@ -1,5 +1,5 @@
 # eventReleasableTo code list introduction 
-The below outlines, in a document format, the code list of applicable codes for "eventReleasableTo". 
+The below outlines, in a document format, the code list of applicable codes for `eventReleasableTo`. 
 
 This code list is derived from the US Department of Defense (DoD) json-ism standard, the json-ism standard focusses on JSON payload classification where the open CDEF standard has a focus on JSON based events to be used in NATO event based architectures and data mesh constructs.
 
