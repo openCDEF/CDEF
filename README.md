@@ -22,4 +22,5 @@ The json-ism standard is focusing on the use of JSON payloads and tries to provi
 * [US Office of the DoD CIO - JSON Information Security Marking Standard (JSON-ISM)](https://github.com/DoDCIO/json-ism/)
 * [CNCF cloudevents](https://cloudevents.io/)
 
-## Multi-Domain Integration and Interoperability
+## Integration and Interoperability
+Multi-Domain Integration and Interoperability aims at integrating multiple defense and non defense systems in a way that they form a single large distributed system capable of supporting the needs of modern defense organisations and alliances. Enabling Integration and Interoperability between systems from different defense domains, different countries, different vendors and different technologies as well as the integration of defense and none defense parties and the interoperability between their systems.
