@@ -21,3 +21,5 @@ The json-ism standard is focusing on the use of JSON payloads and tries to provi
 * [US Office of the Director of National Intelligence - Information Security Marking Metadata (ISM)](https://www.dni.gov/index.php/about/organization/chief-information-officer/information-security-marking-metadata)
 * [US Office of the DoD CIO - JSON Information Security Marking Standard (JSON-ISM)](https://github.com/DoDCIO/json-ism/)
 * [CNCF cloudevents](https://cloudevents.io/)
+
+## Multi-Domain Integration and Interoperability
