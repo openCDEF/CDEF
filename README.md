@@ -19,4 +19,5 @@ The json-ism standard is focusing on the use of JSON payloads and tries to provi
 * [DoDM 5200.01, Volume 2 - DoD Information Security Program: Marking of Classified Information](http://www.dtic.mil/whs/directives/corres/pdf/520001_vol2.pdf)
 * [DoDM 5200.01, Volume 4 - DoD Information Security Program: Controlled Unclassified Information (CUI)](http://www.dtic.mil/whs/directives/corres/pdf/520001_vol4.pdf)
 * [Office of the Director of National Intelligence - Information Security Marking Metadata (ISM)](https://www.dni.gov/index.php/about/organization/chief-information-officer/information-security-marking-metadata)
-* [Office of the DoD CIO - JSON Information Security Marking Standard (JSON-ISM)](https://cloudevents.io/)
+* [Office of the DoD CIO - JSON Information Security Marking Standard (JSON-ISM)](https://github.com/DoDCIO/json-ism/)
+* [CNCF cloudevents](https://cloudevents.io/)
