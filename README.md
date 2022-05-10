@@ -27,6 +27,10 @@ As part of the wider concepts such as defense Multi-Domain Integration, JADC2 an
 
 Centrally in this strategy is the use of Domain Driven Design and the concept of a domain, is: a domain is a “A sphere of knowledge or activity” and can be translated into a grouping of "components" that jointly form a logical group/domain. A domain is always aimed at fullfilling one logical task and can consist out of multiple technical components, which indvidually can also be (sub-)domains if the parent domain. Domain-Driven Design is an approach to software development that centers the development on programming a domain model that has a rich understanding of the processes and rules of a domain. 
 
+
+![All defense and govermental domains](doc/images/CDEF_allDomains_overview_v1.png)
+
+
 ![CDEF multidomains](doc/images/CDEF_multidomain_image_v3.png)
 
 ### Integration and Interoperability
