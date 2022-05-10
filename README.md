@@ -27,11 +27,11 @@ As part of the wider concepts such as defense Multi-Domain Integration, JADC2 an
 
 Centrally in this strategy is the use of Domain Driven Design and the concept of a domain, is: a domain is a “A sphere of knowledge or activity” and can be translated into a grouping of "components" that jointly form a logical group/domain. A domain is always aimed at fullfilling one logical task and can consist out of multiple technical components, which indvidually can also be (sub-)domains if the parent domain. Domain-Driven Design is an approach to software development that centers the development on programming a domain model that has a rich understanding of the processes and rules of a domain. 
 
-
+Within the wider concept the defense space is itself can be considered the "defense doman" which itself holds multiple (sub-)domains which are referred to as; land, sea, air, space and cyber. In addition to this known other domains with their respected (sub-)domains other domains are defined within the wider concept. Govermental bodies; holding (sub-domains) classified as non defense departments. Alliances; holding (sub-)domains like the European Union, the NATO, the United Nations and others. Industry Partners; holding (sub-domains) of services provided by defense and non defense enterprises, however, excluding the deployed assets purchased from those companies and fully opperated by a defense organisation. 
 ![All defense and govermental domains](doc/images/CDEF_allDomains_overview_v2.png)
 
 
 ![CDEF multidomains](doc/images/CDEF_multidomain_image_v3.png)
 
-### Integration and Interoperability
+### Domain / Node Integration and Interoperability
 Multi-(defense)-Domain Integration and Interoperability aims at integrating multiple defense and non defense systems in a way that they form a single large distributed system capable of supporting the needs of modern defense organisations and alliances. Enabling Integration and Interoperability between systems from different defense domains, different countries, different vendors and different technologies as well as the integration of defense and none defense parties and the interoperability between their systems.
