@@ -52,3 +52,9 @@ xx
 
 ### Data Mesh Driven Integration and Interoperability
 xx
+
+## CDEF - Standard defintion
+xx
+
+## CDEF - Technology Components
+xx
