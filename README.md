@@ -4,7 +4,7 @@ The Open Common Defence Event Format (CDEF) provides a standard to both the defe
 Event-driven architecture uses events to trigger and communicate between decoupled and distributed services and is common in modern application and system design. CDEF provides the required standard event format definitions and binds the Event-driven architecture concept with the data mesh concept. Within this the jont concept all assets are a node in the wider data mesh and are able to both produce as well as consume events and share data an consume data when and where needed and allowed by security, classification and operational security definitions. 
 
 
-## Common Defence Event Format - CDEF - related standards
+## CDEF - Related Standards
 The Open Common Defence Event Format (CDEF) incorporates a number of standing military and industry best practices and standards into one single standard for both the defence industry and the IT industry as well as individual armed forces and NATO for the security, creation, consumption and transportation of events in a distributed system setup enabling both event-driven Integration and Interoperability for Multi-Domain defence collaboration as well as secured Multi-Domain data mesh based integration. 
 
 ### CNCF CloudEvents
@@ -22,7 +22,7 @@ The json-ism standard is focusing on the use of JSON payloads and tries to provi
 * [US Office of the DoD CIO - JSON Information Security Marking Standard (JSON-ISM)](https://github.com/DoDCIO/json-ism/)
 * [CNCF cloudevents](https://cloudevents.io/)
 
-## Common Defence Event Format - CDEF - Domain Driven Design
+## CDEF - Domain Driven Design
 As part of the wider concepts such as defence Multi-Domain Integration, JADC2 and others defence organisations strive to ensure Integration and Interoperability between all defence and non defence domains to form one integration en interoperating platform to support defence operations in the widest sense of the word. 
 
 Centrally in this strategy is the use of Domain Driven Design and the concept of a domain, is: a domain is a “A sphere of knowledge or activity” and can be translated into a grouping of "components" that jointly form a logical group/domain. A domain is always aimed at fulfilling one logical task and can consist out of multiple technical components, which individually can also be (sub-)domains if the parent domain. Domain-Driven Design is an approach to software development that centers the development on programming a domain model that has a rich understanding of the processes and rules of a domain. 
@@ -33,14 +33,22 @@ Within the wider concept the defence space is itself can be considered the "defe
 * **Alliances**; holding (sub-)domains like the European Union, the NATO, the United Nations and others.
 * **Industry Partners**; holding (sub-domains) of services provided by defence and non defence enterprises, however, excluding the deployed assets purchased from those companies and fully operated by a defence organisation. 
 
-![All defense and govermental domains](doc/images/CDEF_allDomains_overview_v2.png)
+![All defence and governmental domains](doc/images/CDEF_allDomains_overview_v2.png)
 
 The combined set of the defence domain (including the land, sea, air, space and cyber sub-domains), the Governmental domain (including the various governmental sub-domains), the alliances domain (including the various alliances sub-domains) and the industry partner domain (including the various industry partner service sub-domains) jointly form the full extend of a Multi-Domain defence collaboration.  
 
 Within the given model, each domain can hold multiple sub-domains which in turn can hold sub-domains. Following this logical model this provides a theoretical infinite drill-down possibility from a high conceptual level down to the smallest field deployed sensor carried by a soldier.
 
+## CDEF - Integration and Interoperability
+Multi-(defence)-Domain Integration and Interoperability aims at integrating multiple defence and non defence systems in a way that they form a single large distributed system capable of supporting the needs of modern defence organisations and alliances. Enabling Integration and Interoperability between systems from different defence domains, different countries, different vendors and different technologies as well as the integration of defence and none defence parties and the interoperability between their systems.
 
 ![CDEF multidomains](doc/images/CDEF_multidomain_image_v3.png)
 
-### Domain / Node Integration and Interoperability
-Multi-(defence)-Domain Integration and Interoperability aims at integrating multiple defence and non defence systems in a way that they form a single large distributed system capable of supporting the needs of modern defence organisations and alliances. Enabling Integration and Interoperability between systems from different defence domains, different countries, different vendors and different technologies as well as the integration of defence and none defence parties and the interoperability between their systems.
+### Event Driven Integration and Interoperability
+xx
+
+### API Driven Integration and Interoperability
+xx
+
+### Data Mesh Driven Integration and Interoperability
+xx
